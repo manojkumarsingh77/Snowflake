@@ -1,0 +1,100 @@
+{"order_id": "ORD1", "customer": {"id": "CUST16"}, "items": [{"product": "Monitor", "qty": 3, "price": 33829}, {"product": "Phone", "qty": 5, "price": 27387}]}
+{"order_id": "ORD2", "customer": {"id": "CUST13"}, "items": [{"product": "Keyboard", "qty": 4, "price": 48811}, {"product": "Laptop", "qty": 1, "price": 20990}, {"product": "Monitor", "qty": 3, "price": 11931}, {"product": "Mouse", "qty": 5, "price": 7551}]}
+{"order_id": "ORD3", "customer": {"id": "CUST21"}, "items": [{"product": "Keyboard", "qty": 4, "price": 26592}, {"product": "Laptop", "qty": 1, "price": 23532}, {"product": "Keyboard", "qty": 2, "price": 42959}]}
+{"order_id": "ORD4", "customer": {"id": "CUST8"}, "items": [{"product": "Keyboard", "qty": 4, "price": 19068}, {"product": "Laptop", "qty": 5, "price": 17258}, {"product": "Phone", "qty": 3, "price": 14910}, {"product": "Mouse", "qty": 2, "price": 32067}]}
+{"order_id": "ORD5", "customer": {"id": "CUST24"}, "items": [{"product": "Keyboard", "qty": 2, "price": 31267}, {"product": "Monitor", "qty": 2, "price": 43103}]}
+{"order_id": "ORD6", "customer": {"id": "CUST44"}, "items": [{"product": "Phone", "qty": 3, "price": 2091}]}
+{"order_id": "ORD7", "customer": {"id": "CUST3"}, "items": [{"product": "Keyboard", "qty": 2, "price": 28449}, {"product": "Mouse", "qty": 5, "price": 15189}]}
+{"order_id": "ORD8", "customer": {"id": "CUST5"}, "items": [{"product": "Keyboard", "qty": 4, "price": 43233}, {"product": "Mouse", "qty": 2, "price": 35665}]}
+{"order_id": "ORD9", "customer": {"id": "CUST25"}, "items": [{"product": "Laptop", "qty": 4, "price": 38985}, {"product": "Phone", "qty": 5, "price": 20386}]}
+{"order_id": "ORD10", "customer": {"id": "CUST24"}, "items": [{"product": "Laptop", "qty": 2, "price": 19353}, {"product": "Keyboard", "qty": 1, "price": 38969}]}
+{"order_id": "ORD11", "customer": {"id": "CUST41"}, "items": [{"product": "Keyboard", "qty": 1, "price": 42086}, {"product": "Laptop", "qty": 2, "price": 37978}, {"product": "Keyboard", "qty": 1, "price": 5597}, {"product": "Monitor", "qty": 2, "price": 10200}]}
+{"order_id": "ORD12", "customer": {"id": "CUST15"}, "items": [{"product": "Mouse", "qty": 2, "price": 13594}, {"product": "Keyboard", "qty": 3, "price": 48833}]}
+{"order_id": "ORD13", "customer": {"id": "CUST35"}, "items": [{"product": "Keyboard", "qty": 2, "price": 7070}, {"product": "Monitor", "qty": 2, "price": 3788}]}
+{"order_id": "ORD14", "customer": {"id": "CUST15"}, "items": [{"product": "Laptop", "qty": 1, "price": 30567}]}
+{"order_id": "ORD15", "customer": {"id": "CUST15"}, "items": [{"product": "Phone", "qty": 4, "price": 41010}]}
+{"order_id": "ORD16", "customer": {"id": "CUST48"}, "items": [{"product": "Monitor", "qty": 4, "price": 6248}, {"product": "Phone", "qty": 5, "price": 5119}, {"product": "Monitor", "qty": 3, "price": 33373}]}
+{"order_id": "ORD17", "customer": {"id": "CUST7"}, "items": [{"product": "Keyboard", "qty": 3, "price": 43291}]}
+{"order_id": "ORD18", "customer": {"id": "CUST8"}, "items": [{"product": "Laptop", "qty": 3, "price": 35319}]}
+{"order_id": "ORD19", "customer": {"id": "CUST46"}, "items": [{"product": "Keyboard", "qty": 5, "price": 44440}, {"product": "Keyboard", "qty": 2, "price": 48465}]}
+{"order_id": "ORD20", "customer": {"id": "CUST33"}, "items": [{"product": "Monitor", "qty": 3, "price": 21595}]}
+{"order_id": "ORD21", "customer": {"id": "CUST31"}, "items": [{"product": "Mouse", "qty": 5, "price": 44946}, {"product": "Phone", "qty": 1, "price": 22928}]}
+{"order_id": "ORD22", "customer": {"id": "CUST37"}, "items": [{"product": "Laptop", "qty": 2, "price": 44205}, {"product": "Laptop", "qty": 4, "price": 27140}]}
+{"order_id": "ORD23", "customer": {"id": "CUST6"}, "items": [{"product": "Laptop", "qty": 1, "price": 35832}, {"product": "Monitor", "qty": 2, "price": 31123}]}
+{"order_id": "ORD24", "customer": {"id": "CUST35"}, "items": [{"product": "Monitor", "qty": 1, "price": 11832}, {"product": "Keyboard", "qty": 4, "price": 34030}]}
+{"order_id": "ORD25", "customer": {"id": "CUST33"}, "items": [{"product": "Monitor", "qty": 4, "price": 23337}, {"product": "Laptop", "qty": 4, "price": 33647}]}
+{"order_id": "ORD26", "customer": {"id": "CUST4"}, "items": [{"product": "Keyboard", "qty": 5, "price": 15871}, {"product": "Mouse", "qty": 4, "price": 18837}, {"product": "Laptop", "qty": 3, "price": 13384}]}
+{"order_id": "ORD27", "customer": {"id": "CUST25"}, "items": [{"product": "Laptop", "qty": 2, "price": 27414}, {"product": "Phone", "qty": 4, "price": 24060}, {"product": "Phone", "qty": 1, "price": 22334}, {"product": "Laptop", "qty": 5, "price": 35915}]}
+{"order_id": "ORD28", "customer": {"id": "CUST33"}, "items": [{"product": "Monitor", "qty": 4, "price": 25586}, {"product": "Laptop", "qty": 1, "price": 42988}, {"product": "Laptop", "qty": 5, "price": 27005}]}
+{"order_id": "ORD29", "customer": {"id": "CUST20"}, "items": [{"product": "Mouse", "qty": 1, "price": 17154}]}
+{"order_id": "ORD30", "customer": {"id": "CUST48"}, "items": [{"product": "Keyboard", "qty": 1, "price": 18505}]}
+{"order_id": "ORD31", "customer": {"id": "CUST46"}, "items": [{"product": "Keyboard", "qty": 5, "price": 49365}, {"product": "Mouse", "qty": 2, "price": 35019}, {"product": "Monitor", "qty": 1, "price": 26206}]}
+{"order_id": "ORD32", "customer": {"id": "CUST17"}, "items": [{"product": "Keyboard", "qty": 2, "price": 2750}]}
+{"order_id": "ORD33", "customer": {"id": "CUST2"}, "items": [{"product": "Mouse", "qty": 2, "price": 26182}, {"product": "Monitor", "qty": 5, "price": 11855}, {"product": "Laptop", "qty": 5, "price": 8074}, {"product": "Mouse", "qty": 5, "price": 29368}]}
+{"order_id": "ORD34", "customer": {"id": "CUST30"}, "items": [{"product": "Mouse", "qty": 5, "price": 6193}]}
+{"order_id": "ORD35", "customer": {"id": "CUST29"}, "items": [{"product": "Laptop", "qty": 3, "price": 33657}]}
+{"order_id": "ORD36", "customer": {"id": "CUST32"}, "items": [{"product": "Phone", "qty": 3, "price": 47531}]}
+{"order_id": "ORD37", "customer": {"id": "CUST8"}, "items": [{"product": "Mouse", "qty": 3, "price": 28788}]}
+{"order_id": "ORD38", "customer": {"id": "CUST26"}, "items": [{"product": "Keyboard", "qty": 4, "price": 48413}, {"product": "Monitor", "qty": 5, "price": 42227}]}
+{"order_id": "ORD39", "customer": {"id": "CUST34"}, "items": [{"product": "Monitor", "qty": 1, "price": 13625}]}
+{"order_id": "ORD40", "customer": {"id": "CUST20"}, "items": [{"product": "Keyboard", "qty": 5, "price": 7057}, {"product": "Phone", "qty": 4, "price": 8622}, {"product": "Monitor", "qty": 4, "price": 48267}, {"product": "Mouse", "qty": 2, "price": 8097}]}
+{"order_id": "ORD41", "customer": {"id": "CUST36"}, "items": [{"product": "Keyboard", "qty": 3, "price": 17272}]}
+{"order_id": "ORD42", "customer": {"id": "CUST24"}, "items": [{"product": "Keyboard", "qty": 2, "price": 7624}, {"product": "Mouse", "qty": 1, "price": 36356}, {"product": "Phone", "qty": 3, "price": 39685}]}
+{"order_id": "ORD43", "customer": {"id": "CUST47"}, "items": [{"product": "Mouse", "qty": 5, "price": 5424}, {"product": "Laptop", "qty": 3, "price": 43520}, {"product": "Laptop", "qty": 1, "price": 12482}]}
+{"order_id": "ORD44", "customer": {"id": "CUST5"}, "items": [{"product": "Monitor", "qty": 4, "price": 2058}, {"product": "Phone", "qty": 2, "price": 13544}, {"product": "Laptop", "qty": 5, "price": 13910}, {"product": "Laptop", "qty": 2, "price": 14081}]}
+{"order_id": "ORD45", "customer": {"id": "CUST40"}, "items": [{"product": "Mouse", "qty": 5, "price": 30910}, {"product": "Monitor", "qty": 4, "price": 38015}]}
+{"order_id": "ORD46", "customer": {"id": "CUST42"}, "items": [{"product": "Monitor", "qty": 4, "price": 5105}, {"product": "Phone", "qty": 2, "price": 42120}, {"product": "Monitor", "qty": 5, "price": 17648}, {"product": "Keyboard", "qty": 1, "price": 2863}]}
+{"order_id": "ORD47", "customer": {"id": "CUST12"}, "items": [{"product": "Keyboard", "qty": 2, "price": 27521}]}
+{"order_id": "ORD48", "customer": {"id": "CUST1"}, "items": [{"product": "Phone", "qty": 4, "price": 49447}, {"product": "Keyboard", "qty": 1, "price": 42333}, {"product": "Mouse", "qty": 2, "price": 20254}, {"product": "Laptop", "qty": 3, "price": 35618}]}
+{"order_id": "ORD49", "customer": {"id": "CUST35"}, "items": [{"product": "Monitor", "qty": 1, "price": 31151}, {"product": "Monitor", "qty": 3, "price": 34150}, {"product": "Phone", "qty": 5, "price": 42769}, {"product": "Keyboard", "qty": 5, "price": 1214}]}
+{"order_id": "ORD50", "customer": {"id": "CUST26"}, "items": [{"product": "Monitor", "qty": 4, "price": 27490}]}
+{"order_id": "ORD51", "customer": {"id": "CUST14"}, "items": [{"product": "Monitor", "qty": 4, "price": 12341}, {"product": "Laptop", "qty": 2, "price": 45882}]}
+{"order_id": "ORD52", "customer": {"id": "CUST34"}, "items": [{"product": "Monitor", "qty": 2, "price": 12758}, {"product": "Phone", "qty": 5, "price": 26012}]}
+{"order_id": "ORD53", "customer": {"id": "CUST9"}, "items": [{"product": "Phone", "qty": 4, "price": 45152}]}
+{"order_id": "ORD54", "customer": {"id": "CUST5"}, "items": [{"product": "Keyboard", "qty": 3, "price": 23335}, {"product": "Monitor", "qty": 1, "price": 47143}]}
+{"order_id": "ORD55", "customer": {"id": "CUST33"}, "items": [{"product": "Keyboard", "qty": 1, "price": 12554}, {"product": "Laptop", "qty": 2, "price": 49796}, {"product": "Keyboard", "qty": 5, "price": 25000}]}
+{"order_id": "ORD56", "customer": {"id": "CUST1"}, "items": [{"product": "Laptop", "qty": 2, "price": 9699}, {"product": "Laptop", "qty": 2, "price": 39477}, {"product": "Mouse", "qty": 5, "price": 4970}]}
+{"order_id": "ORD57", "customer": {"id": "CUST19"}, "items": [{"product": "Phone", "qty": 2, "price": 48230}, {"product": "Mouse", "qty": 3, "price": 32523}, {"product": "Keyboard", "qty": 1, "price": 49094}]}
+{"order_id": "ORD58", "customer": {"id": "CUST20"}, "items": [{"product": "Keyboard", "qty": 3, "price": 5009}, {"product": "Laptop", "qty": 2, "price": 39979}]}
+{"order_id": "ORD59", "customer": {"id": "CUST50"}, "items": [{"product": "Keyboard", "qty": 5, "price": 48603}]}
+{"order_id": "ORD60", "customer": {"id": "CUST11"}, "items": [{"product": "Keyboard", "qty": 2, "price": 41295}, {"product": "Phone", "qty": 2, "price": 21568}, {"product": "Phone", "qty": 2, "price": 7349}, {"product": "Monitor", "qty": 3, "price": 2792}]}
+{"order_id": "ORD61", "customer": {"id": "CUST26"}, "items": [{"product": "Keyboard", "qty": 2, "price": 4024}]}
+{"order_id": "ORD62", "customer": {"id": "CUST42"}, "items": [{"product": "Keyboard", "qty": 4, "price": 15724}, {"product": "Laptop", "qty": 4, "price": 10715}, {"product": "Mouse", "qty": 2, "price": 33161}, {"product": "Phone", "qty": 4, "price": 42302}]}
+{"order_id": "ORD63", "customer": {"id": "CUST15"}, "items": [{"product": "Keyboard", "qty": 3, "price": 21146}, {"product": "Mouse", "qty": 4, "price": 4733}, {"product": "Laptop", "qty": 1, "price": 37186}]}
+{"order_id": "ORD64", "customer": {"id": "CUST43"}, "items": [{"product": "Phone", "qty": 4, "price": 29022}]}
+{"order_id": "ORD65", "customer": {"id": "CUST37"}, "items": [{"product": "Monitor", "qty": 3, "price": 20569}]}
+{"order_id": "ORD66", "customer": {"id": "CUST42"}, "items": [{"product": "Phone", "qty": 2, "price": 2261}]}
+{"order_id": "ORD67", "customer": {"id": "CUST36"}, "items": [{"product": "Mouse", "qty": 1, "price": 25846}, {"product": "Laptop", "qty": 2, "price": 35082}, {"product": "Monitor", "qty": 2, "price": 36794}, {"product": "Monitor", "qty": 1, "price": 9733}]}
+{"order_id": "ORD68", "customer": {"id": "CUST43"}, "items": [{"product": "Monitor", "qty": 3, "price": 5124}, {"product": "Laptop", "qty": 4, "price": 28860}, {"product": "Keyboard", "qty": 5, "price": 18826}, {"product": "Keyboard", "qty": 4, "price": 39235}]}
+{"order_id": "ORD69", "customer": {"id": "CUST37"}, "items": [{"product": "Laptop", "qty": 4, "price": 48378}, {"product": "Phone", "qty": 2, "price": 44563}]}
+{"order_id": "ORD70", "customer": {"id": "CUST4"}, "items": [{"product": "Phone", "qty": 5, "price": 31073}, {"product": "Monitor", "qty": 1, "price": 11475}, {"product": "Laptop", "qty": 5, "price": 24374}]}
+{"order_id": "ORD71", "customer": {"id": "CUST2"}, "items": [{"product": "Laptop", "qty": 1, "price": 2662}]}
+{"order_id": "ORD72", "customer": {"id": "CUST44"}, "items": [{"product": "Mouse", "qty": 2, "price": 14435}, {"product": "Monitor", "qty": 2, "price": 49694}]}
+{"order_id": "ORD73", "customer": {"id": "CUST33"}, "items": [{"product": "Phone", "qty": 2, "price": 34356}, {"product": "Phone", "qty": 3, "price": 23586}, {"product": "Laptop", "qty": 1, "price": 34486}]}
+{"order_id": "ORD74", "customer": {"id": "CUST12"}, "items": [{"product": "Keyboard", "qty": 4, "price": 32074}, {"product": "Keyboard", "qty": 3, "price": 35688}, {"product": "Mouse", "qty": 5, "price": 49335}]}
+{"order_id": "ORD75", "customer": {"id": "CUST50"}, "items": [{"product": "Laptop", "qty": 5, "price": 28817}, {"product": "Mouse", "qty": 1, "price": 34741}, {"product": "Monitor", "qty": 2, "price": 1483}]}
+{"order_id": "ORD76", "customer": {"id": "CUST3"}, "items": [{"product": "Monitor", "qty": 5, "price": 35967}]}
+{"order_id": "ORD77", "customer": {"id": "CUST13"}, "items": [{"product": "Laptop", "qty": 5, "price": 26718}, {"product": "Mouse", "qty": 3, "price": 45578}, {"product": "Monitor", "qty": 4, "price": 29769}]}
+{"order_id": "ORD78", "customer": {"id": "CUST29"}, "items": [{"product": "Monitor", "qty": 5, "price": 47370}, {"product": "Mouse", "qty": 4, "price": 32444}, {"product": "Mouse", "qty": 4, "price": 19580}, {"product": "Phone", "qty": 5, "price": 9812}]}
+{"order_id": "ORD79", "customer": {"id": "CUST44"}, "items": [{"product": "Mouse", "qty": 2, "price": 18568}]}
+{"order_id": "ORD80", "customer": {"id": "CUST28"}, "items": [{"product": "Phone", "qty": 5, "price": 16956}]}
+{"order_id": "ORD81", "customer": {"id": "CUST18"}, "items": [{"product": "Keyboard", "qty": 2, "price": 25941}, {"product": "Laptop", "qty": 1, "price": 22806}]}
+{"order_id": "ORD82", "customer": {"id": "CUST35"}, "items": [{"product": "Keyboard", "qty": 3, "price": 27413}, {"product": "Keyboard", "qty": 2, "price": 27368}]}
+{"order_id": "ORD83", "customer": {"id": "CUST49"}, "items": [{"product": "Monitor", "qty": 1, "price": 9992}, {"product": "Monitor", "qty": 3, "price": 25823}, {"product": "Laptop", "qty": 5, "price": 23152}, {"product": "Keyboard", "qty": 4, "price": 8865}]}
+{"order_id": "ORD84", "customer": {"id": "CUST48"}, "items": [{"product": "Mouse", "qty": 5, "price": 18066}, {"product": "Phone", "qty": 3, "price": 7887}, {"product": "Mouse", "qty": 5, "price": 1103}, {"product": "Phone", "qty": 1, "price": 34383}]}
+{"order_id": "ORD85", "customer": {"id": "CUST36"}, "items": [{"product": "Mouse", "qty": 4, "price": 21112}, {"product": "Monitor", "qty": 2, "price": 15854}, {"product": "Mouse", "qty": 2, "price": 45243}, {"product": "Monitor", "qty": 2, "price": 36060}]}
+{"order_id": "ORD86", "customer": {"id": "CUST11"}, "items": [{"product": "Mouse", "qty": 5, "price": 18069}, {"product": "Phone", "qty": 1, "price": 17354}, {"product": "Keyboard", "qty": 3, "price": 27001}]}
+{"order_id": "ORD87", "customer": {"id": "CUST27"}, "items": [{"product": "Monitor", "qty": 3, "price": 24623}]}
+{"order_id": "ORD88", "customer": {"id": "CUST29"}, "items": [{"product": "Monitor", "qty": 5, "price": 24390}, {"product": "Monitor", "qty": 5, "price": 46611}, {"product": "Phone", "qty": 1, "price": 7614}, {"product": "Mouse", "qty": 4, "price": 20777}]}
+{"order_id": "ORD89", "customer": {"id": "CUST31"}, "items": [{"product": "Monitor", "qty": 5, "price": 26888}]}
+{"order_id": "ORD90", "customer": {"id": "CUST4"}, "items": [{"product": "Mouse", "qty": 5, "price": 29503}, {"product": "Mouse", "qty": 4, "price": 11206}, {"product": "Mouse", "qty": 4, "price": 1305}, {"product": "Monitor", "qty": 4, "price": 46156}]}
+{"order_id": "ORD91", "customer": {"id": "CUST41"}, "items": [{"product": "Laptop", "qty": 4, "price": 48348}]}
+{"order_id": "ORD92", "customer": {"id": "CUST29"}, "items": [{"product": "Keyboard", "qty": 5, "price": 30091}]}
+{"order_id": "ORD93", "customer": {"id": "CUST5"}, "items": [{"product": "Monitor", "qty": 2, "price": 34990}]}
+{"order_id": "ORD94", "customer": {"id": "CUST16"}, "items": [{"product": "Mouse", "qty": 2, "price": 16214}, {"product": "Keyboard", "qty": 5, "price": 6251}, {"product": "Phone", "qty": 4, "price": 1648}]}
+{"order_id": "ORD95", "customer": {"id": "CUST43"}, "items": [{"product": "Mouse", "qty": 1, "price": 15082}]}
+{"order_id": "ORD96", "customer": {"id": "CUST36"}, "items": [{"product": "Laptop", "qty": 1, "price": 39227}, {"product": "Monitor", "qty": 3, "price": 7980}, {"product": "Phone", "qty": 4, "price": 47876}]}
+{"order_id": "ORD97", "customer": {"id": "CUST24"}, "items": [{"product": "Laptop", "qty": 2, "price": 13955}]}
+{"order_id": "ORD98", "customer": {"id": "CUST25"}, "items": [{"product": "Keyboard", "qty": 3, "price": 8262}, {"product": "Mouse", "qty": 3, "price": 845}, {"product": "Keyboard", "qty": 3, "price": 15392}, {"product": "Laptop", "qty": 5, "price": 38754}]}
+{"order_id": "ORD99", "customer": {"id": "CUST16"}, "items": [{"product": "Laptop", "qty": 1, "price": 45243}]}
+{"order_id": "ORD100", "customer": {"id": "CUST21"}, "items": [{"product": "Keyboard", "qty": 4, "price": 9600}, {"product": "Mouse", "qty": 2, "price": 29413}, {"product": "Laptop", "qty": 1, "price": 11141}, {"product": "Laptop", "qty": 3, "price": 31584}]}
